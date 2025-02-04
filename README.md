@@ -20,6 +20,19 @@ There are multiple roles flor this application and we will use 2 letter abbrevia
 4. Guest : **GS**
 5. Staff : **ST**
 
+![IMG_2139](https://github.com/user-attachments/assets/213be049-4b54-465c-a7b1-28de62758457)
+![IMG_2138](https://github.com/user-attachments/assets/c1b0d14e-ef3d-4bfc-a9cc-a11b410d2f18)
+![IMG_2137](https://github.com/user-attachments/assets/54833599-973f-48bd-bcb5-0ba935ffa072)
+![IMG_2136](https://github.com/user-attachments/assets/660d600c-dffb-44f6-8cb6-d3ebc6a13cfb)
+![IMG_2135](https://github.com/user-attachments/assets/c5c1d31a-ac43-4aae-ba31-345dba12864c)
+![IMG_2134](https://github.com/user-attachments/assets/8ace730d-bf5d-40a7-a934-dbfccbc150c0)
+![IMG_2133](https://github.com/user-attachments/assets/f7d2ff88-40b0-490c-8006-4ba529eae6fd)
+![IMG_2132](https://github.com/user-attachments/assets/0d64d355-dff4-4e83-b091-6172f36f52e6)
+![IMG_2131](https://github.com/user-attachments/assets/6ac7aece-84f4-4d2d-b924-a8b66887b995)
+![IMG_2130](https://github.com/user-attachments/assets/a0afc9ef-94eb-4fab-9762-5fc5b91fb8df)
+
+
+
 
 <img width="1013" alt="image" src="https://github.com/user-attachments/assets/e6ea78d7-98fd-4296-afa9-a4f90abf596e">
 
