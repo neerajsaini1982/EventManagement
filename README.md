@@ -111,7 +111,16 @@ This site was built using [SHADCN](https://ui.shadcn.com).
 5. DOMAIN.COM/admin/locations/location/new
 6. DOMAIN.COM/admin/locations/locationid/settings
 
-
+### Location Admin PAGES
+1. DOMAIN.COM/locations/locationid/login
+2. DOMAIN.COM/locations/locationid/home (home is same as dashbaord page that you were showing)
+3. DOMAIN.COM/locations/locationid/settings
+4. DOMAIN.COM/locations/locationid/users
+5. DOMAIN.COM/locations/locationid/userid
+6. DOMAIN.COM/locations/locationid/events
+7. DOMAIN.COM/locations/locationid/events/eventid
+8. DOMAIN.COM/locations/locationid/events/eventid/settings
+9. 
 
 ## API Endpoints
 ### Location
