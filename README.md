@@ -101,6 +101,18 @@ This site was built using [SHADCN](https://ui.shadcn.com).
 6. As a Guest I will put name and DOB  for the family members.
 7. As a Guest I am able to change/Update my response before the invitation date.
  
+
+## UI URL's
+### SuperAdmin PAGES
+1. DOMAIN.COM/login
+2. DOMAIN.COM/admin/home
+3. DOMAIN.COM/admin/locations
+4. DOMAIN.COM/admin/locations/locationid
+5. DOMAIN.COM/admin/locations/location/new
+6. DOMAIN.COM/admin/locations/locationid/settings
+
+
+
 ## API Endpoints
 ### Location
 1. GET : /locations
