@@ -1,32 +1,32 @@
 
 1. DNS.com/admin/login OR DNS.com/admin/
-    It will take the user to login page if he is unauthenticated. If the user is autthenticated than takes the user to home/dashbaord page. #5
+    > It will take the user to login page if he is unauthenticated. If the user is autthenticated than takes the user to home/dashbaord page. #5
 2. DNS.com/admin/locations
-    It will show all the locations
+    > It will show all the locations
 3. DNS.com/admin/locations/new
-    Creating a new location
+    > Creating a new location
 4. DNS.com/admin/users
-    All the system users
+    > All the system users
 5. DNS.com/admin/dashboard OR DNS.com/admin/home
-    We will add some charts here in the future.
+    > We will add some charts here in the future.
 6. DNS.com/locations/l2psj OR DNS.com/l2psj
-    This is the base URL for a location, whichever is easier to implement please do so or implement both. I will be using l2psj in all the examples as that will be the first location using this system.
+    > This is the base URL for a location, whichever is easier to implement please do so or implement both. I will be using l2psj in all the examples as that will be the first location using this system.
 7. DNS.com/locations/l2psj/events
-    It will show all the events for the locaiton l2psj
+    > It will show all the events for the locaiton l2psj
 8. DNS.com/locations/l2psj/events/new
-    Create new event for the location l2psj
+    > Create new event for the location l2psj
 9. DNS.com/locations/l2psj/events/eid/rsvp
-    This is the page that the guests will use to see the invitation and accept/reject the invitation. Pictures were uploaded below. if you still don't understand please ask for clarification.
+    > This is the page that the guests will use to see the invitation and accept/reject the invitation. Pictures were uploaded below. if you still don't understand please ask for clarification.
 11. DNS.com/locations/l2psj/events/eid/settings
-     Settings for the event
+     > Settings for the event
 13. DNS.com/locations/l2psj/settings
-     Settings for the location for example address, Rules etc. We can talk on the fields if you like please let me know.
+     > Settings for the location for example address, Rules etc. We can talk on the fields if you like please let me know.
 15. DNS.com/locations/l2psj/rsvp
-    This page will showcase who all were invited for the event and if they accepted and some detils like how evite shows 
+    > This page will showcase who all were invited for the event and if they accepted and some detils like how evite shows 
 16. DNS.com/locations/l2psj/checkedIn
-    As the guests will check in on the event date, Host can see the live update here
+    > As the guests will check in on the event date, Host can see the live update here
 17. DNS.com/locations/l2psj/checkin
-    Page for the staff to check in guests. I just can't think of this flow yet but as the system is building i willl have better idea. Its has to be quick and easy.
+    > Page for the staff to check in guests. I just can't think of this flow yet but as the system is building i willl have better idea. Its has to be quick and easy.
 18. 
     
 
