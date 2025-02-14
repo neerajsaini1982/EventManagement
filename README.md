@@ -30,8 +30,45 @@
 18. 
     
 
-DNS.com/locations/l2psj
 
+## Data Fields
+### Locations
+1. Location ID
+2. Location Name
+3. Location Code
+4. Location URL
+7. Location Owner
+9. Location Settings
+    - Location timezone
+    - Location Notes
+    - Location Address
+11. Location Rules
+
+
+### Events
+1. Event ID
+2. Event Title
+3. Event Start Datetime
+4. Event End Datetime
+7. Event Settings
+   - Event timezone (drived from location)
+   - Event address (drived from locaiton)
+9. Event Pictures
+10. Event Host
+11. Event Host Notes
+12. Event Attendees []
+13. Gifts[]
+14. Event URL
+
+
+### Guests
+1. Guest ID
+2. Guest Name
+3. Guest Email
+4. Guest Phone
+5. Guest Status
+6. Guest Number Attending
+7. RSVP Comment
 
 
 
