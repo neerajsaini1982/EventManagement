@@ -37,12 +37,15 @@
 2. Location Name
 3. Location Code
 4. Location URL
-7. Location Owner
-9. Location Settings
+5. Location Owner
+6. Location Settings
     - Location timezone
-    - Location Notes
+    - Location Notes / Location Admin Notes / Location Rules
     - Location Address
-11. Location Rules
+    - Is Waiver Needed : boolean field
+    - Is DOB needed : Boolean Field
+7. Is Waiver Needed : boolean field
+
 
 
 ### Events
@@ -53,22 +56,25 @@
 7. Event Settings
    - Event timezone (drived from location)
    - Event address (drived from locaiton)
+   - Event Host Notes (Something that the event host would like the guests to know)
 9. Event Pictures
-10. Event Host
-11. Event Host Notes
+10. Event Host and Guest Of Honor[]  : there can be multiple hosts or cohosts hosting a party. We may have to have a different table for it.
+11. Host Notes
 12. Event Attendees []
 13. Gifts[]
 14. Event URL
 
 
-### Guests
-1. Guest ID
-2. Guest Name
-3. Guest Email
-4. Guest Phone
-5. Guest Status
+### Attendees 
+> I am currently not sure, how data will be sctrucured, Once you have events and Locations set, please let me know and we can go over the attendees at that time.
+1. Attendee ID
+2. Attendee Name
+3. Attendee Email
+4. Attendee Phone
+5. Attendee Status / Attendee Response
 6. Guest Number Attending
 7. RSVP Comment
+8. Is Waiver Signed.
 
 
 
